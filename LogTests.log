@@ -1,0 +1,4 @@
+2022-01-11 21:30:57.434 [ForkJoinPool-1-worker-3] INFO  pages.HomePageAuthorization - Вводим логин
+2022-01-11 21:30:57.681 [ForkJoinPool-1-worker-3] INFO  pages.HomePageAuthorization - Вводим пароль
+2022-01-11 21:30:57.789 [ForkJoinPool-1-worker-3] INFO  pages.HomePageAuthorization - Нажимаем кнопку видимости пароля
+2022-01-11 21:30:57.889 [ForkJoinPool-1-worker-3] INFO  pages.HomePageAuthorization - Пароль виден
